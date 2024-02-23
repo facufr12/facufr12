@@ -12,7 +12,7 @@
 <p align="left">
 🎓 Programador,
 
-🎥 Autodidacta,  | Siempre aprendiendo | En busca de nuevas oportunidade
+🎥 Autodidacta,  | Siempre aprendiendo | En busca de nuevas oportunidades.
 
 📫 Contacto: **facundo.frontend@hotmail.com**
 <!--Intro end-->
